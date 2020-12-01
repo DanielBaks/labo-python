@@ -14,3 +14,4 @@ window.geometry("1024x768")
 window.minimize(480, 360)
 # afficher
 window.mainloop()
+pop = 'lol'
